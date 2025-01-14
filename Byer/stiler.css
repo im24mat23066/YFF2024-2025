@@ -8,7 +8,7 @@ body{
 }
 
 main, header{
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 
@@ -44,4 +44,10 @@ h1{
 .flyt{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }  
+
+figure{
+    gap: 50px;
+}
+
